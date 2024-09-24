@@ -8,6 +8,8 @@ Data cleaning and code for CSVs in 'ETL_Mini_Project_JKennedy_MRashid_JWoolley.i
 
 Created CSV files are located in the resources folder.
 
+ERD is located in the Results folder
+
 Schema for table creation in Results Folder under 'crowdfunding_db_schema.sql'
 
 Screenshots of table creation and results from importing data in Results folder.
