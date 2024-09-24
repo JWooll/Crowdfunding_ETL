@@ -1,4 +1,4 @@
-test # Crowdfunding_ETL
+# Crowdfunding_ETL
 
 Muad Rashid, Joeseph Kennedy, Jacob Woolley.
 
